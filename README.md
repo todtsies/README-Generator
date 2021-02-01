@@ -8,7 +8,7 @@
 
   ## Demo
 
-  ![Application Preview](./assets/demo.gif)
+  ![Application Preview](assets/demo.gif)
 
   ## Table of Contents
 
