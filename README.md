@@ -1,7 +1,7 @@
  
   <h1 align="center">README Generator</h1>
 
-  [![license](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)](https://opensource.org/licenses/MIT)
+  [![license](https://img.shields.io/static/v1?label=license&message=MIT&color=yellow)](https://opensource.org/licenses/MIT)
 
   ## Description
   This application takes in command line input and uses it to generate a professionally formatted README.
@@ -23,10 +23,10 @@
   - [Questions](#questions)
   
   ## Installation
-  npm install inquirer
+  node install inquirer
 
   ## Usage
-  Used to create a professional README to any application.
+  To create a professional README for any application.
 
   ## Contributors
   Emily B. Todt
