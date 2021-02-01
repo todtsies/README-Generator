@@ -51,8 +51,24 @@ const questions = [
             "ISC",
             "MIT",
             "Mozilla",
-            "Open"
+            "Open",
+            "None"
         ]
+    },
+    {
+        type: "list",
+        message: "Select a color for your license badge:",
+        name: "badgeColor",
+        choices: [
+            "brightgreen", 
+            "yellow", 
+            "red", 
+            "blue", 
+            "orange", 
+            "lightgray", 
+            "blueviolet"
+        ],
+        when: answers => answers.license !== "None"
     },
     {
         type: 'checkbox',
