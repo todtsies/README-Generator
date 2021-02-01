@@ -96,6 +96,11 @@ const questions = [
         message: 'Please enter your email address: ',
         name: 'email'
     },
+    {
+        type: 'input',
+        message: 'Please input the file path to your live demo.',
+        name: 'demo'
+    },
 ];
 
 // Create a function to write README file

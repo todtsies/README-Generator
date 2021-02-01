@@ -30,7 +30,7 @@ function renderLicenseSection(license, link, name) {
   
     } else {
       return `
-        Copyright (c) 2021 ${name}  
+        Copyright (c) 2021 Emily B. Todt 
         Licensed under the [${license} license](${link}).
       `;
     }
@@ -59,9 +59,14 @@ const generateMarkdown = (data) => {
   ## Description
   ${data.description}
 
+  ## Demo
+
+  ![Application Preview](${data.demo})
+
   ## Table of Contents
 
   - [Description](#description)
+  - [Demo](#demo)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributors](#contributors)
