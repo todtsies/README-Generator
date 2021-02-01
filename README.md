@@ -4,7 +4,7 @@
   [![license](https://img.shields.io/static/v1?label=license&message=MIT&color=yellow)](https://opensource.org/licenses/MIT)
 
   ## Description
-  The application takes in command line input and uses it to generate a professionally formatted README.
+  demo
 
   ## Demo
 
@@ -23,16 +23,16 @@
   - [Questions](#questions)
   
   ## Installation
-  Installedinquirer, axios, and fs.
+  demo
 
   ## Usage
-  To generate high quality README's to any application.
+  demo
 
   ## Contributors
   Emily B. Todt
 
   ## Tests
-  No tests included
+  no
 
   ## License
   
