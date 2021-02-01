@@ -1,5 +1,4 @@
 // Include packages needed for this application
-
 const inquirer = require('inquirer');
 const fs = require('fs');
 const util = require('util');
@@ -73,7 +72,7 @@ const questions = [
     {
         type: 'checkbox',
         message: "Select all technologies used in building the application:",
-        name: 'technolgies',
+        name: 'technologies',
         choices: [
             "HTML", 
             "CSS", 
